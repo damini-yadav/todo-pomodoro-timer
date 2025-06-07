@@ -29,7 +29,7 @@ Designed for students 🎓, developers 💻, and anyone who wants to stay organi
 
 ## 💻 Screenshots
 
-> *(Add screenshots here if available)*
+> ![Screenshot 2025-06-07 094624](https://github.com/user-attachments/assets/e510690b-6d03-4862-8491-182ca6627238)
 
 ---
 
